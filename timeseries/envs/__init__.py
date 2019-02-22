@@ -1,1 +1,1 @@
-from timeseries.envs.timeseries_env import timeseriesEnv
+from timeseries.envs.timeseries_env import TimeseriesEnv
